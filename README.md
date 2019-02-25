@@ -1,5 +1,8 @@
 # graphicPlotter
 Matplotlib graphic plotter 
 
-# Usage:\n
-  python graphPlot -f <path to the file with the data> -u < optional second file with data> -x <input name set> -y< (f(x) name set) > -g < graphic title > -fm < name of function 1 > -um < optional name of function 2 >
+# python graphPlot.py -h to se how to use :
+   
+# Usage exemple 
+
+# python graphPlot.py -f ./sequential_search.txt  -u ./sequential_search.txt -x "vector size" -y "time to find" -g"comparison between binary search and sequential search" -fm "Binary Search"  -um "Sequential Search"
