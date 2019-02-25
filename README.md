@@ -5,7 +5,7 @@ Matplotlib graphic plotter
    
 # Usage exemple 
 
- python graphPlot.py -f ./sequential_search.txt  -u ./sequential_search.txt -x "vector size" -y "time to find" -g"comparison between binary search and sequential search" -fm "Binary Search"  -um "Sequential Search"
+ python graphPlot.py -f ./sequential_search.txt  -u ./sequential_search.txt  -g"comparison between binary search and sequential search" -j "Binary Search"  -k "Sequential Search"
 
 # Output
  
