@@ -1,7 +1,7 @@
 # graphicPlotter
 Matplotlib graphic plotter 
 
-# python graphPlot.py -h to se how to use :
+# python graphPlot.py -h to se how to use 
    
 # Usage exemple 
 
