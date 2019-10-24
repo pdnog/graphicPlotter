@@ -9,3 +9,5 @@ Matplotlib graphic plotter
 
 # Output
  ![figure_1](https://user-images.githubusercontent.com/33808846/53366446-62287280-3922-11e9-8351-e9dfb16d23cc.png)
+
+# Make by Python
